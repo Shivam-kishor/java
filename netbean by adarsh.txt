@@ -1,0 +1,31 @@
+netbeans
+=netbens is open sourc
+basic +_ad
+   
+
+java frt and back
+
+appllet 
+awt
+framework
+swing
+designing work
+//netb
+
+we can crete any project n netb..
+(1) package
+(2)  source package
+(3) class create
+
+   <calculater>//
+
+
+
+
+
+     
+
+
+	
+
+
